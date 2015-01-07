@@ -1,12 +1,8 @@
-.. image:: https://travis-ci.org/ambitioninc/pycharm-coverage.png
-   :target: https://travis-ci.org/ambitioninc/pycharm-coverage
-
-.. image:: https://coveralls.io/repos/ambitioninc/pycharm-coverage/badge.png?branch=develop
-    :target: https://coveralls.io/r/ambitioninc/pycharm-coverage?branch=develop
-
 pycharm-coverage
 ================
 A demo for JetBrains to debug a partial (branch) code coverage display in pycharm 3.4.1
+
+You can follow this issue at https://youtrack.jetbrains.com/issue/PY-8698
 
 Walkthrough
 -----------
